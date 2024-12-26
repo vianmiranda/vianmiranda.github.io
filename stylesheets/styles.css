@@ -26,3 +26,15 @@ h1 {
 p {
     font-size: 0.95em;
 }
+
+a {
+    color: rgb(255, 230, 200);
+}
+
+a:hover {
+    color: rgb(255, 240, 225)
+}
+
+#ivan {
+    text-decoration: underline wavy rgb(255, 0, 0, 0.85);
+}
