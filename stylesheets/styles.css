@@ -1,0 +1,28 @@
+body {
+    font-family: "Segoe UI", Verdana, sans-serif;
+    font-size: 100%; 
+    color: rgb(255, 225, 165);
+    background-color: rgb(20, 15, 0);  
+    line-height: 150%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh;
+}
+
+.info {
+    margin: 1em;
+    max-width: 37.5em;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+p {
+    font-size: 0.95em;
+}
